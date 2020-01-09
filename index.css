@@ -1,0 +1,12 @@
+h1{
+    color: yellow;
+    font-size: 0.8em;
+    font-weight: lighter;
+}
+/* CSS выделяет 5 семейств шрифтов:
+serif - засечковое times new roman, georgia, garamond
+sans-serif - без засечковое arial, veerdama, tahoma, trebuchet ms
+cursive - рукописный comoc sans ms
+fantasy - художественный impact, karnac two
+monospace - равноширинный Lucida console, consolias
+*/
